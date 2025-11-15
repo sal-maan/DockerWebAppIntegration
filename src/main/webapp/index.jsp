@@ -30,7 +30,7 @@
     <!-- HERO -->
     <section class="hero reveal">
         <div class="hero-text">
-            <p class="eyebrow">🚀 DevOps Engineer</p>
+            <p class="eyebrow">DevOps Engineer</p>
             <h1>
                 Hi, I'm <span class="gradient-text">Abdul&nbsp;Salman</span> —
                 I automate
@@ -188,9 +188,9 @@
         <h2>Contact</h2>
         <p>If you’d like to discuss an opportunity or project, reach out:</p>
         <ul class="contact">
-            <li>📧 Email: <a href="mailto:abdulsalman@gmail.com">abdulsalman@gmail.com</a></li>
-            <li>🔗 LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/abdulsalman</a></li>
-            <li>💻 GitHub: <a href="https://github.com" target="_blank">github.com/abdulsalman</a></li>
+            <li>Email: <a href="mailto:abdulsalman@gmail.com">abdulsalman@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/abdulsalman</a></li>
+            <li>GitHub: <a href="https://github.com" target="_blank">github.com/abdulsalman</a></li>
         </ul>
     </section>
 </main>
