@@ -23,7 +23,7 @@
 <main class="container">
     <section class="hero">
         <div>
-            <h1>Hello, I'm <span>Your Name</span></h1>
+            <h1>Hello, I'm <span>Abdul Salman</span></h1>
             <p class="subtitle">
                 A <strong>DevOps / Java / Web</strong> enthusiast building reliable and automated solutions.
             </p>
@@ -84,7 +84,7 @@
         <h2>Contact</h2>
         <p>You can reach me at:</p>
         <ul class="contact-list">
-            <li>Email: <a href="mailto:you@example.com">you@example.com</a></li>
+            <li>Email: <a href="mailto:abdulsalmaan9581@gmail.com">abdulsalmaan9581@gmail.com</a></li>
             <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></li>
             <li>GitHub: <a href="https://github.com" target="_blank">github.com/yourusername</a></li>
         </ul>
