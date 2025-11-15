@@ -147,15 +147,15 @@
         <p>If you'd like to discuss an opportunity or project, reach out:</p>
         <ul class="contact">
             <li>Email: <a href="mailto:AbdulSalmanexample.com">AbdulSalmaan9581@gmail.com</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></li>
-            <li>GitHub: <a href="https://github.com" target="_blank">github.com/yourusername</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">https://www.linkedin.com/in/abdul-salman/</a></li>
+            <li>GitHub: <a href="https://github.com" target="_blank">https://github.com/sal-maan</a></li>
         </ul>
     </section>
 </main>
 
 <footer class="footer">
     <div class="container">
-        © 2025 Abdul Salman - DevOps Engineer
+        2025 Abdul Salman - DevOps Engineer
     </div>
 </footer>
 
