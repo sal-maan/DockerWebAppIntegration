@@ -103,7 +103,7 @@
                 <h3>Ops & Observability</h3>
                 <ul>
                     <li>Linux (RHEL / Ubuntu)</li>
-                    <li>Prometheus • Grafana</li>
+                    <li>Prometheus, Grafana</li>
                     <li>ELK / Loki</li>
                 </ul>
             </div>
@@ -120,7 +120,7 @@
                     Designed a Jenkins pipeline to build, test, run quality checks, build Docker images and
                     deploy to Tomcat on every push.
                 </p>
-                <p class="tech">Jenkins • Git • Maven • Docker • Tomcat</p>
+                <p class="tech">Jenkins, Git, Maven, Docker, Tomcat</p>
             </article>
             <article class="project">
                 <h3>Containerized Microservice Stack</h3>
@@ -128,7 +128,7 @@
                     Dockerized multiple services with a shared network, reverse proxy and centralized logs
                     using ELK, ready for Kubernetes.
                 </p>
-                <p class="tech">Docker • Nginx • ELK • Compose</p>
+                <p class="tech">Docker, Nginx, ELK, Compose</p>
             </article>
             <article class="project">
                 <h3>Monitoring & Alerting Platform</h3>
@@ -136,7 +136,7 @@
                     Deployed dashboards and alerts for app, infra and pipeline metrics to detect issues
                     before users notice.
                 </p>
-                <p class="tech">Prometheus • Grafana • Linux</p>
+                <p class="tech">Prometheus, Grafana, Linux</p>
             </article>
         </div>
     </section>
@@ -146,7 +146,7 @@
         <h2>Contact</h2>
         <p>If you'd like to discuss an opportunity or project, reach out:</p>
         <ul class="contact">
-            <li>Email: <a href="mailto:AbdulSalmanexample.com">AbdulSalmanexample.com</a></li>
+            <li>Email: <a href="mailto:AbdulSalmanexample.com">AbdulSalmaan9581@gmail.com</a></li>
             <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></li>
             <li>GitHub: <a href="https://github.com" target="_blank">github.com/yourusername</a></li>
         </ul>
