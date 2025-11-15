@@ -60,7 +60,7 @@
     <section id="about" class="card section reveal">
         <h2>About Me</h2>
         <p>
-            I’m a DevOps engineer focused on automation, scalability and reliability. I turn fragile,
+            Im a DevOps engineer focused on automation, scalability and reliability. I turn fragile,
             manual deployments into clean, repeatable pipelines and codify infrastructure so releases
             are boring, safe and fast.
         </p>
@@ -86,15 +86,15 @@
             <div class="column-card">
                 <h3>CI/CD & SCM</h3>
                 <ul>
-                    <li>Jenkins • GitHub Actions</li>
-                    <li>Git • GitLab • Bitbucket</li>
-                    <li>Maven • Gradle • npm</li>
+                    <li>Jenkins, GitHub Actions</li>
+                    <li>Git, GitLab, Bitbucket</li>
+                    <li>Maven, Gradle, npm</li>
                 </ul>
             </div>
             <div class="column-card">
                 <h3>Containers & Cloud</h3>
                 <ul>
-                    <li>Docker • Docker Compose</li>
+                    <li>Docker and Docker Compose</li>
                     <li>Kubernetes (basics)</li>
                     <li>AWS / Azure (basics)</li>
                 </ul>
