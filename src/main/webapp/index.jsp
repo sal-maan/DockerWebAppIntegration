@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>DevOps Engineer | Your Name</title>
+    <title>DevOps Engineer </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -29,7 +29,7 @@
     <!-- HERO -->
     <section class="hero reveal">
         <div class="hero-text">
-            <p class="eyebrow">🚀 DevOps Engineer</p>
+            <p class="eyebrow">DevOps Engineer</p>
             <h1>
                 I automate
                 <span class="gradient-text">builds</span>,
@@ -41,7 +41,7 @@
             </p>
             <div class="hero-actions">
                 <a href="#projects" class="btn btn-primary">View My Work</a>
-                <a href="#contact" class="btn btn-outline">Let’s Collaborate</a>
+                <a href="#contact" class="btn btn-outline">Let's Collaborate</a>
             </div>
             <div class="hero-tags">
                 <span>Jenkins</span><span>Docker</span><span>Kubernetes</span><span>Linux</span><span>Monitoring</span>
@@ -144,18 +144,18 @@
     <!-- CONTACT -->
     <section id="contact" class="card section reveal">
         <h2>Contact</h2>
-        <p>If you’d like to discuss an opportunity or project, reach out:</p>
+        <p>If you'd like to discuss an opportunity or project, reach out:</p>
         <ul class="contact">
-            <li>📧 Email: <a href="mailto:you@example.com">you@example.com</a></li>
-            <li>🔗 LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></li>
-            <li>💻 GitHub: <a href="https://github.com" target="_blank">github.com/yourusername</a></li>
+            <li>Email: <a href="mailto:AbdulSalmanexample.com">AbdulSalmanexample.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></li>
+            <li>GitHub: <a href="https://github.com" target="_blank">github.com/yourusername</a></li>
         </ul>
     </section>
 </main>
 
 <footer class="footer">
     <div class="container">
-        © 2025 Your Name · DevOps Engineer
+        © 2025 Abdul Salman - DevOps Engineer
     </div>
 </footer>
 
