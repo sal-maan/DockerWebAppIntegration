@@ -11,7 +11,7 @@
 
 <header class="header">
     <div class="container nav">
-        <div class="logo">Your<span>DevOps</span></div>
+        <div class="logo"><span>DevOps</span></div>
         <nav id="navLinks">
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
