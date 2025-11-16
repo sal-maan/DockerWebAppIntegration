@@ -31,7 +31,7 @@
         <div class="hero-text">
             <p class="eyebrow">DevOps Engineer</p>
             <h1>
-                I'm Abdul Salman, I automate
+                I'm Abdul Shoib, I automate
                 <span class="gradient-text">builds</span>,
                 <span class="gradient-text">deployments</span>,
                 and <span class="gradient-text">infrastructure</span>.
